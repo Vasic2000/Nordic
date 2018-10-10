@@ -1,4 +1,10 @@
-*.idea/
+# Intellij
+.idea/
 *.iml
-*target/git
-*.gitignoregit
+*.iws
+*.gitignore
+*.xml
+
+# Maven
+log/
+target/
