@@ -2,7 +2,7 @@
 .idea/
 *.iml
 *.iws
-*.gitignore
+.gitignore
 *.xml
 
 # Maven
